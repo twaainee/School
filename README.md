@@ -2,7 +2,6 @@
 
 ## About Me
 Age: 19
-
 Birthday: Nov, 25 2005
 
 
